@@ -20,7 +20,7 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[IMC](https://careers.imc.com/us/en/c/graduates-jobs) | Chicago, Sydney, Amsterdam | Software, Hardware, Quant Trader|
 |[Jane Street](https://www.janestreet.com/join-jane-street/position/4743431002/) | New York | Software Engineer|
 |[LeetCode](https://www.cognitoforms.com/LeetCodeLLC/LeetCodeFullStackEngineerApplicationNewGrad)| | |
-|[Optiver](https://www.optiver.com/na/en/job-opportunities/us-4200121002?foo=bar)| Chicago, Illinois | Software Engineer |
+|[Optiver](https://www.optiver.com/na/en/job-opportunities/us-4798943002?foo=bar)| Chicago, Illinois | Software Engineer |
 |[VMWare](https://careers.vmware.com/new-graduates/jobs/R2009349?lang=en-us)| Palo Alto, CA| |
 |[Whisper.ai](https://boards.greenhouse.io/whisperai/jobs/4465259002?gh_src=3202a8272)| San Francisco | |
 |[Paypal](https://jobsearch.paypal-corp.com/en-US/search?keywords=graduate&location=&facetcountry=us) | Various | Software Engineer |
@@ -54,3 +54,5 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[Seat Geek](https://www.linkedin.com/jobs/view/1988894105/?alternateChannel=search&refId=%2B5Klv2HPInOcI04537NONA%3D%3D&trk=flagship3_jobs_discovery_jymbii)| New York |Software Engineer - New Graduate|
 |[IBM](https://www.ibm.com/us-en/employment/entrylevel/#jobs?%23jobs=&job-search=)|Various|Cognitive Developer, Back End Developer, Front End Developer, Research Software Engineer, etc|
 |[Anduril](https://jobs.lever.co/anduril/9a88ea8a-2017-41d4-b02b-2482db6cb4f9/apply?lever-source=PittCSC)|Seattle, WA|Software Engineer - New Grad|
+|[Mastercard](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/San-Francisco-California/Software-Development-Engineer-I_R-112958-1/?source=LINKEDIN)|San Francisco, CA|Software Engineer I|
+|[Walmart](https://careers.walmart.com/us/jobs/WD294738-2021-campus-software-engineer)|Bentonville, AR|2021 Campus: Software Engineer
