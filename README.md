@@ -16,7 +16,6 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[Blend](https://blend.com/company/careers/opening/?oid=ecccb3f7-d3d7-41fb-b2fb-32352c578813)| San Francisco | Software Engineer|
 |[D.E. Shaw](https://www.deshaw.com/careers/software-developer-new-york-2646)| New York, NY | Software Developer |
 |[Facebook](https://www.facebook.com/careers/jobs/?q=university%20grad)| Los Angeles, Menlo Park, Seattle, Washington DC, Boston, New York, other locations | Software, Network, Quant Research, Research Engineer |
-|[Goldman Sachs](https://goldmansachs.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-1786316/xf-6c8bbd207c0e/candidate/so/pm/1/pl/1/opp/1-New-Analyst-New-Associate-Full-time-roles/en-GB)| New York | |
 |[IMC](https://careers.imc.com/us/en/c/graduates-jobs) | Chicago, Sydney, Amsterdam | Software, Hardware, Quant Trader|
 |[Jane Street](https://www.janestreet.com/join-jane-street/position/4743431002/) | New York | Software Engineer|
 |[LeetCode](https://www.cognitoforms.com/LeetCodeLLC/LeetCodeFullStackEngineerApplicationNewGrad)| | |
@@ -53,7 +52,6 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[PIMCO](https://careers.pimco.com/careers/FolderDetail/2021-Full-time-Tech-Analyst-Software-Engineering/28909)| Various |2021 Full-time Tech Analyst, Software Engineering|
 |[IBM](https://www.ibm.com/us-en/employment/entrylevel/#jobs?%23jobs=&job-search=)|Various|Cognitive Developer, Back End Developer, Front End Developer, Research Software Engineer, etc|
 |[Anduril](https://jobs.lever.co/anduril/9a88ea8a-2017-41d4-b02b-2482db6cb4f9/apply?lever-source=PittCSC)|Seattle, WA|Software Engineer - New Grad|
-|[Mastercard](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/San-Francisco-California/Software-Development-Engineer-I_R-112958-1/?source=LINKEDIN)|San Francisco, CA|Software Engineer I|
 |[Walmart](https://careers.walmart.com/us/jobs/WD294738-2021-campus-software-engineer)|Bentonville, AR|2021 Campus: Software Engineer
 |[Coinbase](https://www.coinbase.com/careers/positions/1724688)|San Francisco, CA|University Grad, Software Engineer (Remote)
 |[Verkada](https://jobs.lever.co/verkada/508bb40a-83b5-41fd-91c8-03c5b4c44e05)|San Mateo, CA|Back End, [Front End](https://jobs.lever.co/verkada/08dae376-80a4-4df9-b862-c198760cf8c2), [Comp Vision](https://jobs.lever.co/verkada/b5296e85-99d4-414f-9e07-bce48266e922), [Embedded Systems](https://jobs.lever.co/verkada/21602ef3-ec1f-4c02-8a86-c86efea3ad08)|
@@ -71,3 +69,9 @@ Need interview prep? Check out Yangshun Tay's [Tech Interview Handbook](https://
 |[WillowTree](https://willowtreeapps.com/careers/jobs/4795388002/software-engineer-(new-grad))|Colombus, Ohio| New Grad - Software Engineer|
 |[Yext](https://boards.greenhouse.io/yext/jobs/2290402)|New York, Washington DC| New Grad - Software Engineer|
 |[Expanse](https://boards.greenhouse.io/embed/job_app?token=4803222002)|Atlanta, GA , San Francisco, CA|Software Engineer - New College Graduate|
+|[Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=1826267)|Boston, New York|Software Engineer - Recent Grad|
+|[Applied Intuition](https://jobs.lever.co/applied/186f572c-f554-43bf-9c7c-0cb0885b1ea3/apply)|Mountain View|Software Engineer - New Grad|
+|[Affirm](https://boards.greenhouse.io/affirm/jobs/4114396003) | SF | |
+|[Uber](https://www.uber.com/global/en/careers/list/62352/) |SF | APM |
+|[Thrivecash](https://jobs.lever.co/thrive/679241fc-cd3a-45da-af66-f442034c90fb)|San Franciso| New Grad - Software Engineer|
+|[Nightfall](https://jobs.lever.co/nightfall/80cdcd6e-1d19-41c5-9eeb-ee1b3d4d5a56)|San Franciso| New Grad - Backend Engineer(Remote)|
