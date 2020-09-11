@@ -68,7 +68,6 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[Yext](https://boards.greenhouse.io/yext/jobs/2290402)|New York, Washington DC| New Grad - Software Engineer|
 |[Datadog](https://www.datadoghq.com/careers/detail/?gh_jid=1826267)|Boston, New York|Software Engineer - Recent Grad|
 |[Applied Intuition](https://jobs.lever.co/applied/186f572c-f554-43bf-9c7c-0cb0885b1ea3/apply)|Mountain View|Software Engineer - New Grad|
-|[Affirm](https://boards.greenhouse.io/affirm/jobs/4114396003) | SF | |
 |[Thrivecash](https://jobs.lever.co/thrive/679241fc-cd3a-45da-af66-f442034c90fb)|San Franciso| New Grad - Software Engineer|
 |[Nightfall](https://jobs.lever.co/nightfall/80cdcd6e-1d19-41c5-9eeb-ee1b3d4d5a56)|San Franciso| New Grad - Backend Engineer(Remote)|
 |[Apple](https://jobs.apple.com/en-us/details/200189775/software-or-machine-learning-engineer-entry-level?team=SFTWR) | Cupertino | Software or Machine Learning Engineer|
@@ -78,7 +77,6 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[Five Rings Capital](https://jobs.jobvite.com/fiverings/job/oRiIcfwN) | NYC | |
 |[General Mills](https://careers.generalmills.com/job/11289689/digital-and-technology-early-career-program-minneapolis-mn/) | Minneapolis | |
 |[Honeywell](https://careers.honeywell.com/us/en/job/req238515/Computer-Software-Engineer-Computer-Science-Recent-Grad-Full-Time) | Various | |
-|[McKinsey](https://www.mckinsey.com/careers/search-jobs/jobs/analyst-softwareengineerdataengineerdatascientist-campusstudents-41876) | Atlanta, Austin, Boston, Chicago, Dallas, Denver, NJ, NYC, SF, SV , SoCal | |
 |[Peak6](https://boards.greenhouse.io/capitalmanagement/jobs/2259594) | Chicago | |
 |[Pendo](https://boards.greenhouse.io/pendo/jobs/4821861002) | Raleigh, NC | |
 |[Qumulo](https://qumulo.com/company/jobs/?gh_jid=2290068#details) | Seattle, WA | |
@@ -89,3 +87,9 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[BNY Mellon](https://jobs.bnymellon.com/jobs/2007808) | NYC, Jersey City, Pittsburgh | |
 |[Clearbanc](http://clearbanc.hrmdirect.com/employment/job-opening.php?req=1377841#job) | Toronto | |
 |[Cockroach Labs](https://www.cockroachlabs.com/careers/job/?gh_jid=2177472) | NYC | |
+|[Clumio](https://clumio.com/careers/?gh_jid=4478429002)|Santa Clara, California|Software Engineer, University Graduate|
+|[databricks](https://databricks.com/company/careers/open-positions/job?gh_jid=4780023002)|San Francisco, California|Software Engineer, New Grad(2021)|
+|[Twilio](https://boards.greenhouse.io/twilio/jobs/2321815)|California, Colarado|Software Engineer, New Graduate|
+|[C3.ai](https://c3.ai/job-description/?gh_jid=4416889002)|Redwood City, California|Software Engineer, Early Professional(2021)|
+|[Viasat](https://careers.viasat.com/careers/FolderDetail/Software-Engineer-University-Grad/5800)|Carlsbad, California|Software Engineer, University Grad|
+|[Bloomberg](https://careers.bloomberg.com/job/detail/84014)|New York|2021 Software Engineer|
