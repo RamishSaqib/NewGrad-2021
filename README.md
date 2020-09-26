@@ -115,4 +115,7 @@ Need interview prep?  Check out the [Zero to Offer 📈 program here](https://ww
 |[Credera](https://www.credera.com/careers/students/jobs/2266582) | Various | |
 |[Ford](https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25385&siteid=5311&PageType=JobDetails&jobid=497562#jobDetails=497562_5311) | Dearborn, MI | |
 |[Epic Systems](https://epic.avature.net/Careers/FolderDetail/Verona-Wisconsin-United-States-Software-Developer/740) | Wisconsin | | 
-|[Sentry](https://boards.greenhouse.io/sentry/jobs/2181796) | SF | |
+|[SeatGeek](https://seatgeek.com/jobs/107959) | New York | |
+|[Nextdoor](https://about.nextdoor.com/careers-list/?gh_jid=2337636)|San Francisco, CA|Software Engineer - New Grad
+|[Cloudflare](https://boards.greenhouse.io/cloudflare/jobs/2350116?gh_jid=2350116)|San Francisco, Austin, Champaign|Software Engineer - New Grad (2021)
+
